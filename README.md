@@ -6,7 +6,7 @@
 
   The JATE has been converted into a PWA, and before operated as a regular web application. As JATE is now a PWA, it has offline functionality, has better performance, and can be downloaded to a user's device. 
 
-  Upon directing yourself to the [deployed link](), a user should be greeted by this window: ![browser-screenshot](./assets/screenshots/browser-screenshot.png)
+  Upon directing yourself to the [deployed link](https://morning-everglades-84416.herokuapp.com/), a user should be greeted by this window: ![browser-screenshot](./assets/screenshots/browser-screenshot.png)
 
   After downloading, JATE should look like this: ![installed=screenshot](./assets/screenshots/installed-screenshot.png)
 
@@ -28,7 +28,7 @@
 
   ## Usage 
 
-  If not installed, please visit the [deployed link](). From there, one may either choose to install JATE or use it in the browser. 
+  If not installed, please visit the [deployed link](https://morning-everglades-84416.herokuapp.com/). From there, one may either choose to install JATE or use it in the browser. 
 
   ## License
   
